@@ -1,0 +1,1 @@
+export { default } from "../../stuti-portfolio/src/components/Hero";

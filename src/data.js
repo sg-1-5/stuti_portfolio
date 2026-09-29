@@ -1,0 +1,1 @@
+export * from "../stuti-portfolio/src/data";
